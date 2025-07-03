@@ -8,7 +8,7 @@ This project is a conversational chatbot designed to represent myself in a profe
 
 ## ✨ Features
 
-- ✅ **Persona Simulation** – The bot responds *as Ed Donner*, using his LinkedIn profile and a provided summary.
+- ✅ **Persona Simulation** – The bot responds , using my LinkedIn profile and a provided summary.
 - 📥 **Contact Capture** – Users can leave their email, which is pushed via **Pushover notifications**.
 - ❓ **Knowledge Gaps** – If the bot can't answer a question, it logs the query using Pushover.
 - 📄 **Document Parsing** – Reads and processes Ed's resume from PDF (`linkedin.pdf`) and a written summary (`summary.txt`).
