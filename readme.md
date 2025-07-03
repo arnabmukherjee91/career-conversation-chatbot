@@ -1,6 +1,6 @@
 # 🧠 Career Conversation Chatbot – Powered by OpenAI & Hugging Face
 
-This project is a conversational chatbot designed to represent myself in a professional setting. It's deployed as a Hugging Face Space and uses OpenAI's GPT-4o-mini model to answer questions about Ed's career, experience, and background.
+This project is a conversational chatbot designed to represent myself in a professional setting. It's deployed as a Hugging Face Space and uses OpenAI's GPT-4o-mini model to answer questions about my career, experiences and background.
 
 [🔗 Live Demo on Hugging Face](https://huggingface.co/spaces/arnabmukherjee91/career_conversation)
 
@@ -11,7 +11,7 @@ This project is a conversational chatbot designed to represent myself in a profe
 - ✅ **Persona Simulation** – The bot responds, using my LinkedIn profile and a provided summary.
 - 📥 **Contact Capture** – Users can leave their email, which is pushed via **Pushover notifications**.
 - ❓ **Knowledge Gaps** – If the bot can't answer a question, it logs the query using Pushover.
-- 📄 **Document Parsing** – Reads and processes Ed's resume from PDF (`linkedin.pdf`) and a written summary (`summary.txt`).
+- 📄 **Document Parsing** – Reads and processes resume from PDF (`linkedin.pdf`) and a written summary (`summary.txt`).
 - 🤖 **Gradio Interface** – Easy-to-use chat UI powered by [Gradio](https://gradio.app/).
 
 ---
