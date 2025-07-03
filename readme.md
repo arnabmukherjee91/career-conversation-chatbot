@@ -40,12 +40,12 @@ Two custom tools use the [Pushover API](https://pushover.net) to notify you in r
 
 ## 📁 Folder Structure
 
-career_conversation_chatbot/
-│
-├── app.py # Main app logic
-├── requirements.txt # Python dependencies
-├── README.md # This file!
-└── me/
-├── summary.txt # Ed's written career summary
-└── linkedin.pdf # Exported LinkedIn profile
+- career_conversation_chatbot/
+- │
+- ├── app.py # Main app logic
+- ├── requirements.txt # Python dependencies
+- ├── README.md # This file!
+- └── me/
+- ├── summary.txt # written career summary
+- └── linkedin.pdf # Exported LinkedIn profile
 
