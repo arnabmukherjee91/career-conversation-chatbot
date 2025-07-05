@@ -4,7 +4,7 @@ This project is a conversational chatbot designed to represent myself in a profe
 
 [🔗 Live Demo on Hugging Face](https://huggingface.co/spaces/arnabmukherjee91/career_conversation)
 ![cha![chatbot2](https://github.com/user-attachments/assets/052c3f90-5d52-4afa-8f80-74166c34fe2b)
-tbot1](https://github.com/user-attachments/assets/37a3eaca-e1a3-460f-a43b-65914b071e81)
+![cha![chatbot1](https://github.com/user-attachments/assets/37a3eaca-e1a3-460f-a43b-65914b071e81)
 
 
 
