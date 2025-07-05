@@ -4,8 +4,6 @@ This project is a conversational chatbot designed to represent myself in a profe
 
 [🔗 Live Demo on Hugging Face](https://huggingface.co/spaces/arnabmukherjee91/career_conversation)
 ![cha![chatbot2](https://github.com/user-attachments/assets/052c3f90-5d52-4afa-8f80-74166c34fe2b)
-![cha![chatbot1](https://github.com/user-attachments/assets/37a3eaca-e1a3-460f-a43b-65914b071e81)
-
 
 
 ---
@@ -47,9 +45,10 @@ This application implements an intelligent email automation pipeline using OpenA
 - HTML Conversion – The html_converter tool formats plain text or markdown into polished, responsive HTML.
 - Email Dispatch – The send_html_email tool uses the SendGrid API to send emails to specified recipients.
 - [🔗 Live Demo on Hugging Face](https://huggingface.co/spaces/arnabmukherjee91/career_bot)
+- 
   
-  
----
+---![chatbot3](https://github.com/user-attachments/assets/05bf3219-8b4a-4aaf-970f-75addb748f31)
+
 
 ## 📁 Folder Structure
 
