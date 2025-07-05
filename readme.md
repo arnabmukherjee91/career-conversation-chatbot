@@ -3,8 +3,9 @@
 This project is a conversational chatbot designed to represent myself in a professional setting. It's deployed as a Hugging Face Space and uses OpenAI's GPT-4o-mini model to answer questions about my career, experiences and background.
 
 [🔗 Live Demo on Hugging Face](https://huggingface.co/spaces/arnabmukherjee91/career_conversation)
-![cha![chatbot2](https://github.com/user-attachments/assets/052c3f90-5d52-4afa-8f80-74166c34fe2b)
 
+
+![chatbot1](https://github.com/user-attachments/assets/c4871092-7a42-4537-bf6e-0b14333902ea)
 
 ---
 
