@@ -36,6 +36,15 @@ Two custom tools use the [Pushover API](https://pushover.net) to notify you in r
 - `record_user_details`: Stores user email, name, and notes.
 - `record_unknown_question`: Logs unanswered questions.
 
+### 4. **Email Automation Feature (July Update)**
+This application implements an intelligent email automation pipeline using OpenAI agents and SendGrid for transactional email delivery. The core features include:
+- Tool-Driven Workflow: The agent uses modular tools for each step in the email automation process.
+- Subject Line Generation – A custom tool subject_writer generates attention-grabbing email subjects.
+- HTML Conversion – The html_converter tool formats plain text or markdown into polished, responsive HTML.
+- Email Dispatch – The send_html_email tool uses the SendGrid API to send emails to specified recipients.
+- [🔗 Live Demo on Hugging Face](https://huggingface.co/spaces/arnabmukherjee91/career_bot)
+  
+  
 ---
 
 ## 📁 Folder Structure
